@@ -1,0 +1,6 @@
+{
+  "name": "BGMI 120 FPS Tool",
+  "description": "Unlock peak 120Hz display refresh rate, benchmark real-time FPS, test BGMI 120 FPS hardware compatibility, and optimize gaming performance safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
